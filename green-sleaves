@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Silly Green Sleaves Makerspace - Coming Soon!</title>
+</head>
+<body>
+    <header>
+        <h1>Arad's Makerspace Institution A.M.I </h1>
+        <p>Coming Soon: A sanctuary for creators and eco-warriors!</p>
+    </header>
+    <main>
+        <section>
+            <h2>What's Brewing?</h2>
+            <p>Behind the scenes of reality ,imagine thay somewhere out there  is a crafting space that promises to amaze every wandering creative  soul. A place where art meets technology, and discarded treasures find new life, where old vapes ,become piwerbanks, and broken monitors become polarizer goggles</p>
+        </section>
+        <section>
+            <h2>Our Vision</h2>
+            <p>Imagine a vast array of tools at your fingertips: 3D printers, CNC machines, sewing machines, woodworking equipment,soldering station , and in general a vast variety of supplies of  diferent sorts. and the best part is that most of it could be found on the streets ,or in your houses , bring yee old computers ,printers ,and any other otherwise pile of scap metal here ,and we will make something fun out of it. 
+This!... is where your eco-friendly inventions will come to life.</p>
+        </section>
+        <section>
+            <h2>Events and Workshops</h2>
+            <p>This place will have Tue potential to host vast variety of events.
+From intimate electronic music gigs to hands-on repair and synth-building workshops, our makerspace will be a beacon for innovation and community-driven learning.</p>
+        </section>
+        <section>
+            <h2>Join the Movement</h2>
+            <p>While we're gearing up for the grand opening, you can support our journey by buying yourself a pair of green-sleav3s. we highly encourage you to do some exploring and find some DIY gadgets,arcade machines running some retro games , fixed electronics of all sorts , clothes,plenty of weird art  crafted by Silly Alice.</p>
+        </section>
+        <section>
+            <h2>Stay Tuned :)</h2>
+            <p>For updates and sneak peeks, follow our progress at <a href="https://sillylena.github.io">sillylena.github.io</a>. Be part of the story that shapes our tomorrow.</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Silly Lena's Makerspace. All rights reserved.</p>
+    </footer>
+</body>
+</html>
